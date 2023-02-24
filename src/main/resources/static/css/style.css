@@ -1,0 +1,110 @@
+.backimg {
+    background: url("../img/base.jpg");
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: fixed;
+    background-size: cover;
+    background-color: cornflowerblue;
+}
+
+.navbar .nav-item .nav-link {
+    font-size: 20px;
+    color: white;
+}
+
+.navbar .nav-item:hover .nav-link {
+    background: white;
+    color: black;
+    border-radius: 10px;
+}
+.container{
+    height: 90vh;
+    width: 100%;
+    overflow: hidden;
+
+}
+.card{
+    height: 70vh;
+    width: 400px;
+}
+.form-group{
+    height: 7rem;
+
+}
+.form-control{
+    height: 3.5rem;
+}
+label{
+    height: 5vh;
+}
+
+section{
+    background-color: cornflowerblue;
+}
+
+.row{
+    margin-right: 10px;
+}
+.form-signin{
+    font-style: italic;
+    color: cadetblue;
+}
+
+.text-center{
+    color: midnightblue;
+    font-style: italic;
+
+}
+
+.btn{
+    color: #000;
+    font-style: italic;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: mediumpurple;
+}
+
+.btn-primary{
+    background-color: mediumpurple;
+}
+.card-body{
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+}
+
+.bg-primary {
+    background-color: mediumpurple!important;
+}
+
+.mt-3 {
+    margin-top: -1rem!important;
+}
+
+label {
+    color: midnightblue;
+    font-style: italic;
+}
+
+section{
+    background-color: cadetblue;
+    height: 100vh;
+}
+.bg-success {
+    background-color: mediumpurple!important;
+}
+
+.col-md-12{
+    height: 50%;
+}
+.paint-card{
+    height: 10rem;
+}
+
+
+
+
+
